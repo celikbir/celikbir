@@ -3,6 +3,7 @@
 I am Dogukan. But they call me Dogus mostly. I am a sophomore student at Akdeniz University. I am into frontend but also interested in game programming. I joined a game jame in 2021. It was online but I had fun too much. This year I work in [Akdeniz Google Developer Students Club](https://gdsc.community.dev/akdeniz-university/) and I want to organize a gamejam.
 
 You can contact me via e-mail.
+[LinkedIn](https://linkedin.com/in/dogukancelik)
 
 <!--
 **dogusmiuw/dogusmiuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
