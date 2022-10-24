@@ -5,8 +5,8 @@ I am Dogukan. But they call me Dogus mostly. I am a sophomore student at Akdeniz
 You can contact me via e-mail.
 
 ---
-[LinkedIn](https://linkedin.com/in/dogukancelik)
-[Medium](https://douss.medium.com)
+- [LinkedIn](https://linkedin.com/in/dogukancelik)
+- [Medium](https://douss.medium.com)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
