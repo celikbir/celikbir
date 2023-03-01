@@ -12,3 +12,5 @@ You can contact me via [e-mail](mailto:dogukancelikcse@gmail.com).
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogusmiuw)](https://github.com/anuraghazra/github-readme-stats)
+
