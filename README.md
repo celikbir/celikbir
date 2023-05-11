@@ -8,7 +8,7 @@
 
 ## Projects
 - [My Personal Website](https://douss.vercel.app/)
-- [Medium Clone](https://douss-mediumclone.netlify.app/)
+- [Medium Clone](https://douss-mediumclone.netlify.app/) | [Repo](https://github.com/dogusmiuw/patika-odevler/tree/master/front-end-patikasi/bootstrap/medium-clone)
 
 ## Technologies
 ### Frontend
