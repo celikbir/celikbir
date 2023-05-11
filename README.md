@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **PhP**
+- 🌱 I’m currently learning **Javascript** and **PhP**
 
 - 📫 Contact me: **[dogukancelik9@outlook.com](mailto:dogukancelik9@outlook.com)**
 
