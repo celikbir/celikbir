@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-[My Resume](https://flowcv.com/resume/snwpsj8e0s)
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React** and **NodeJS**
