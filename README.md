@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React** and **NodeJS**
 
-- 📫 Contact me: **[dceliknodes@gmail.com](mailto:dceliknodes@gmail.com)**
+- 📫 Contact me: **[dogukancelik2@proton.me](mailto:dogukancelik2@proton.me)**
 
 ## Technologies
 ### Frontend
