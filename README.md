@@ -6,6 +6,8 @@
 
 - 📫 Contact me: **[dogukancelik2@proton.me](mailto:dogukancelik2@proton.me)**
 
+[See resume](https://flowcv.com/resume/1gwghknmih)
+
 ## Technologies
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
