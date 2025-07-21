@@ -6,7 +6,7 @@
 
 - 📫 Contact me: **[dogukancelik2@proton.me](mailto:dogukancelik2@proton.me)**
 
-[See resume](https://flowcv.com/resume/1gwghknmih)
+[See resume](https://docs.google.com/document/d/1feMPbgAbwLuuRvEVT5Z_yuT9PvWvERCuZzNZk0KSFbs/edit?usp=sharing)
 
 ## Technologies
 ### Frontend
