@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **React** and **NodeJS**
 
-- 📫 Contact me: **[dogukancelik2@proton.me](mailto:dogukancelik2@proton.me)**
+- 📫 Contact me: **[ben@celikdogukan.com](mailto:ben@celikdogukan.com)**
 
-[See resume](https://docs.google.com/document/d/1feMPbgAbwLuuRvEVT5Z_yuT9PvWvERCuZzNZk0KSFbs/edit?usp=sharing)
+[See resume](dogukancelik.notion.site)
 
 ## Technologies
 ### Frontend
