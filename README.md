@@ -8,6 +8,10 @@
 
 [See resume](dogukancelik.notion.site)
 
+[Why is my profile picture is a clippy?](https://www.youtube.com/watch?v=2_Dtmpe9qaQ)
+
+---
+
 ## Technologies
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
