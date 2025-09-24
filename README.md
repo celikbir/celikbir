@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
 - 🔭 I’m currently working on **Web Development**
-
 - 🌱 I’m currently learning **React** and **NodeJS**
-
 - 📫 Contact me: **[ben@celikdogukan.com](mailto:ben@celikdogukan.com)**
 
-[See resume](dogukancelik.notion.site)
+[My Blog](https://dousch.bearblog.dev/)
+
+[See resume](https://drive.google.com/file/d/1Wlm6dNrjDBWcWIM_1_977UFdZfOhVMT4/view?usp=sharing)
 
 [Why is my profile picture is a clippy?](https://www.youtube.com/watch?v=2_Dtmpe9qaQ)
 
