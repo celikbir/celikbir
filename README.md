@@ -1,10 +1,10 @@
 Building stuff for web, for people.
 
-**Stack:** React, Next.js, Tailwind, Firebase/Supabase.
+**Stack:** React, Next.js, Tailwind, Firebase.
 
 ## Contact
 
-[contact me via e-mail](mailto:dogukann@tutamail.com)
+[contact me via e-mail](mailto:dogukancelikx1@gmail.com)
 
 ## My Projects
 
