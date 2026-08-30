@@ -2,13 +2,11 @@ Building stuff for web, for people.
 
 **Stack:** React, Next.js, Tailwind, Firebase.
 
-## Contact
-
 [contact me via e-mail](mailto:dogukancelikx1@gmail.com)
 
-## My Projects
+## My Work
 
-These are live projects currently used by people.
+These are the live projects that I created and they are currently used by real people.
 
 ### MentörKapısı
 
@@ -23,6 +21,3 @@ It is currently used and sponsored by **Akdeniz University**.
 
 A social solidarity platform offering free food & beverage options for students.
 It currently hosts **20+ businesses** and serves a community of **900+ users**.
-
-
-
